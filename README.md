@@ -19,7 +19,7 @@ This is a WS2812 LED driver circuit with an ATTiny85 MCU. PCB and the LEDs are a
 * Code is based on Adafruit's [Neopixel libary and their example projects](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/breadboard-layout) so Adafruit's libary might be needed if you want to deploy it from the IDE.
 * Finnaly the hex should be uploaded. You can do this by using IDE-s "Upload using programmer" option or .hex file can be uploaded throuh AVR Dude too. It's basically your choice...
 
-![image of the pcb](images/9.PNG)
+![image of the pcb](images/9.jpg)
 
 ### ToDo
 
